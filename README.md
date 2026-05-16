@@ -95,5 +95,5 @@ y las decisiones de diseño fueron responsabilidad del estudiante.
 | Claude (Anthropic) | Asistente de programación y depuración |
 
 > El uso de IA fue transparente y con fines de aprendizaje,
-> no para reemplazar el entendimiento del estudiante.
+
 
